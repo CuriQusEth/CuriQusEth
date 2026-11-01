@@ -5,7 +5,7 @@
 **Building mini-apps, on-chain games & tools on Base and GenLayer**
 
 [![GitHub followers](https://img.shields.io/github/followers/CuriQusEth?style=social)](https://github.com/CuriQusEth)
-[![Twitter](https://img.shields.io/badge/Twitter-@-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-@-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/wilson_syo)
 
 </div>
 
