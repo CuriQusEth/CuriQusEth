@@ -2,10 +2,12 @@
 
 # Hey, I'm CuriQusEth 👋
 
-**Building mini-apps, on-chain games & tools on Base and GenLayer**
+**Full-stack builder focused on Base mini-apps, on-chain games & GenLayer tools**
+
+I ship fast, production-ready experiences with clean UX and solid blockchain integrations.
 
 [![GitHub followers](https://img.shields.io/github/followers/CuriQusEth?style=social)](https://github.com/CuriQusEth)
-[![Twitter](https://img.shields.io/badge/Twitter-@-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/wilson_syo)
+[![X (Twitter)](https://img.shields.io/badge/X-@wilson__syo-000000?style=flat&logo=x&logoColor=white)](https://x.com/wilson_syo)
 
 </div>
 
@@ -13,55 +15,64 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer focused on **Base** ecosystem and **GenLayer**.  
-I love shipping fast mini-apps, on-chain games, and practical tools that actually work in production.
+I'm a full-stack developer specializing in the **Base** ecosystem and **GenLayer**.
 
-- 🔭 Currently building & iterating on Base mini-apps and GenLayer games
-- 🌱 Deep into TypeScript, React, Viem, on-chain verification & consensus systems
-- 💡 Passionate about clean UX + solid blockchain integrations
-- ⚡ Shipping frequently — check my recent commits
+I love building mini-apps, on-chain games, and practical tools that actually ship and work in production — with a strong focus on TypeScript, modern React stacks, and on-chain verification.
+
+- 🔭 Currently iterating on Base mini-apps and GenLayer-powered games
+- 🌱 Deep into TypeScript, React, Viem, Wagmi, on-chain consensus & verification systems
+- 💡 Obsessed with clean UX + reliable blockchain integrations
+- ⚡ Ship frequently — check recent commits and live demos below
 
 ---
 
 ### 🛠️ Tech Stack
 
-`TypeScript` `React` `Next.js / Vite` `Viem` `Wagmi` `Tailwind`  
-`Solidity` `Base` `GenLayer` `Vercel` `Node.js`
+**Frontend & App**  
+`TypeScript` `React` `Next.js` `Vite` `Tailwind CSS`
+
+**Blockchain**  
+`Viem` `Wagmi` `Solidity` `Base` `GenLayer` `x402`
+
+**Tooling**  
+`Node.js` `Vercel` `Docker`
 
 ---
 
 ### 🔥 Featured Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **[Warp-Jumperr](https://github.com/CuriQusEth/Warp-Jumperr)** | Base mini-app with Denim block architecture | TypeScript • Base | [Demo](https://warp-jumper.vercel.app) |
-| **[GENLAYERGAME-SNAKE](https://github.com/CuriQusEth/GENLAYERGAME-SNAKE)** | On-chain Snake game with GenLayer consensus & immutable badges | TypeScript • GenLayer | [Demo](https://genlayer-tx-snake-game.vercel.app) |
-| **[colary](https://github.com/CuriQusEth/colary)** | Base App experience | TypeScript • Base | [Demo](https://colary.vercel.app) |
-| **[app-directory](https://github.com/CuriQusEth/app-directory)** | Directory / discovery tool | TypeScript | — |
-| **[x402-Pay](https://github.com/CuriQusEth/x402-Pay)** | Payment related mini-app | TypeScript | [Demo](https://x402-pay-iota.vercel.app) |
+| Project | What it is | Stack | Live |
+|---------|------------|-------|------|
+| **[Warp-Jumperr](https://github.com/CuriQusEth/Warp-Jumperr)** | Fast precision platformer leveraging Base Denim 200ms blocks | TypeScript • Base | [Demo](https://warp-jumper.vercel.app) |
+| **[GENLAYERGAME-SNAKE](https://github.com/CuriQusEth/GENLAYERGAME-SNAKE)** | On-chain Snake with GenLayer consensus & immutable badges | TypeScript • GenLayer | [Demo](https://genlayer-tx-snake-game.vercel.app) |
+| **[TollChit402](https://github.com/CuriQusEth/TollChit402)** | x402 v2 micro-payments demo (buyer + seller) with USDC on Base | TypeScript • Base • x402 | [Repo](https://github.com/CuriQusEth/TollChit402) |
+| **[Echo-Lantern](https://github.com/CuriQusEth/Echo-Lantern)** | Atmospheric vertical climbing & lantern-lighting game on Base | TypeScript • Base | [Repo](https://github.com/CuriQusEth/Echo-Lantern) |
+| **[Castsmith-Forge](https://github.com/CuriQusEth/Castsmith-Forge)** | Weapon forging + arena combat game with rarity system | TypeScript • Base | [Demo](https://castsmith-forge.vercel.app) |
+| **[x402-Pay](https://github.com/CuriQusEth/x402-Pay)** | Payment-focused mini-app built around x402 | TypeScript • Base | [Demo](https://x402-pay-iota.vercel.app) |
+
+> More experiments and games live in the repositories — I ship often.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuriQusEth&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriQusEth&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CuriQusEth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriQusEth&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuriQusEth&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuriQusEth&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
 
 ### 🤝 Let's Connect
 
-Open to collaboration on Base / GenLayer projects, mini-apps, and on-chain games.  
-Feel free to star ⭐ any project you like or open an issue!
+Open to collaboration on **Base** / **GenLayer** projects, mini-apps, on-chain games, and practical blockchain tools.
 
-<div align="center">
+Feel free to star ⭐ projects you like, open issues, or reach out.
 
 **Building in public on Base & GenLayer**
 
-</div>
+[X / Twitter](https://x.com/wilson_syo) · [GitHub](https://github.com/CuriQusEth)
