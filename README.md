@@ -2,7 +2,7 @@
 
 # Hey, I'm CuriQusEth 👋
 
-**Full-stack builder focused on Base mini-apps, on-chain games & GenLayer tools**
+**Full-stack builder focused on Base mini-apps, on-chain games, GenLayer tools & practical developer utilities**
 
 I ship fast, production-ready experiences with clean UX and solid blockchain integrations.
 
@@ -19,7 +19,7 @@ I'm a full-stack developer specializing in the **Base** ecosystem and **GenLayer
 
 I love building mini-apps, on-chain games, and practical tools that actually ship and work in production — with a strong focus on TypeScript, modern React stacks, and on-chain verification.
 
-- 🔭 Currently iterating on Base mini-apps and GenLayer-powered games
+- 🔭 Currently iterating on Base mini-apps, GenLayer-powered games and practical node/miner tools
 - 🌱 Deep into TypeScript, React, Viem, Wagmi, on-chain consensus & verification systems
 - 💡 Obsessed with clean UX + reliable blockchain integrations
 - ⚡ Ship frequently — check recent commits and live demos below
@@ -35,7 +35,19 @@ I love building mini-apps, on-chain games, and practical tools that actually shi
 `Viem` `Wagmi` `Solidity` `Base` `GenLayer` `x402`
 
 **Tooling**  
-`Node.js` `Vercel` `Docker`
+`Node.js` `Vercel` `Docker` `Shell`
+
+---
+
+### 🧰 Practical Tools (New)
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **[flop-miner-setup](https://github.com/CuriQusEth/flop-miner-setup)** | Beginner-friendly FLOP Devnet GPU miner setup guide for Vast.ai (English + Turkish) | JavaScript • Docker |
+| **[geth-prysm-node-setup](https://github.com/CuriQusEth/geth-prysm-node-setup)** | One-command Sepolia Geth + Prysm RPC setup (Docker) — perfect for Aztec Sequencer | Shell • Docker |
+| **[technocore-did-tool](https://github.com/CuriQusEth/technocore-did-tool)** | Create a Technocore DID + signed public proof + contribution record in one flow | JavaScript |
+| **[meet-interpreter](https://github.com/CuriQusEth/meet-interpreter)** | Live two-way speech translation for Google Meet (Chrome extension, 20 languages) | JavaScript |
+| **[NoustinyP](https://github.com/CuriQusEth/NoustinyP)** | Agent-native video creation pipeline on top of Hermes Agent (Nous Hackathon) | TypeScript • Next.js |
 
 ---
 
