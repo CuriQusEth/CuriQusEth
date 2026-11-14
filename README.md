@@ -19,7 +19,7 @@ I'm a full-stack developer specializing in the **Base** ecosystem and **GenLayer
 
 I love building mini-apps, on-chain games, and practical tools that actually ship and work in production — with a strong focus on TypeScript, modern React stacks, and on-chain verification.
 
-- 🔭 Currently iterating on Base mini-apps, GenLayer-powered games and practical node/miner tools
+- 🔭 Currently iterating on Base mini-apps, GenLayer-powered games and practical node / miner tools
 - 🌱 Deep into TypeScript, React, Viem, Wagmi, on-chain consensus & verification systems
 - 💡 Obsessed with clean UX + reliable blockchain integrations
 - ⚡ Ship frequently — check recent commits and live demos below
@@ -39,7 +39,7 @@ I love building mini-apps, on-chain games, and practical tools that actually shi
 
 ---
 
-### 🧰 Practical Tools (New)
+### 🧰 Practical Tools
 
 | Project | What it is | Stack |
 |---------|------------|-------|
